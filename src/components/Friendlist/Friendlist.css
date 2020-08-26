@@ -1,0 +1,23 @@
+.friend-list{
+    display: flex;
+   border: 5px solid orange; 
+   border-radius:10px;
+   color: white;
+   background-color:black;
+   margin:5px;
+}
+.friend-image{
+    border:2px solid transparent;
+    padding:70px 50px 0px 10px;
+    margin-left: 20px;
+}
+.friend-info{
+    padding:20px;
+}
+.add-btn{
+    background-color:orange;
+    color:black;
+    border:1px solid white;
+    height: 30px;
+    width: 120px;
+}
